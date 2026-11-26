@@ -290,3 +290,4 @@ html[data-branch=uptown] .pane[data-pane=maadi]{display:none}
 
 /* steady */
 .js .rv,.js .fade,html.js .rv:not(.in),.js .rv.in,.js .fade.in{opacity:1!important;transition:none!important;animation:none!important;transform:none!important}
+:root{--dock:46px}.dock a{font-size:11px;letter-spacing:.18em}
