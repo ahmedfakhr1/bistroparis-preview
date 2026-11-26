@@ -287,3 +287,6 @@ html[data-branch=uptown] .pane[data-pane=maadi]{display:none}
 .tag-at{background:var(--green);color:var(--cream)}
 .tag-veg{border:1px solid var(--ink-soft);color:var(--ink-deep)}
 .drinks-note{margin-top:8px;padding:22px 18px;background:var(--canvas);font:700 13px/1.3 var(--mono);letter-spacing:.2em;text-transform:uppercase;color:var(--ink)}
+
+/* steady */
+.js .rv,.js .fade,html.js .rv:not(.in),.js .rv.in,.js .fade.in{opacity:1!important;transition:none!important;animation:none!important;transform:none!important}
